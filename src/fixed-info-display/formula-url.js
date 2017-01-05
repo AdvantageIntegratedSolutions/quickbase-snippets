@@ -1,1 +1,0 @@
-"javascript:void($.getScript('https://raw.githubusercontent.com/KitHensel/quickbase-snippets/master/src/fixed-info-display/index.js'))"
