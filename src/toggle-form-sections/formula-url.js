@@ -1,1 +1,1 @@
-"javascript:void($.getScript('https://raw.githubusercontent.com/KitHensel/quickbase-snippets/master/src/toggle-form-sections.js'))"
+"javascript:void($.getScript('https://raw.githubusercontent.com/KitHensel/quickbase-snippets/master/src/toggle-form-sections/index.js'))"
