@@ -11,6 +11,7 @@ var style = {
   width: "200px",
   height: "60px",
   padding: "10px",
+  z-index: 9999,
   color: "white",
   "border-radius": "5px 0px 0px 5px",
   "background-color": contentColor
