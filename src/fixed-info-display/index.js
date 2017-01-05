@@ -1,5 +1,5 @@
-var contentLabel = "Fixed Info Content";
-var colorLabel = "Fixed Info Color";
+var contentLabel = "fixed-info-content";
+var colorLabel = "fixed-info-color";
 
 var content = getValue(contentLabel)
 var contentColor = getValue(colorLabel);
